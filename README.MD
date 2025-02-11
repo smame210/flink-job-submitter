@@ -14,4 +14,4 @@
 
 注：  
 windows环境下提交flink on yarn任务存在报错情况，需修改flink-yarn中Utils类和YarnClusterDescriptor类的源码。  
-参考文章: [windows使用java远程提交flink任务到yarn集群 找不到或无法加载主类org.apache.flink.yarn.entrypoint.YarnJobClusterEntrypoint](https://blog.csdn.net/weixin_43916212/article/details/109622222)
+参考文章: [windows使用java远程提交flink任务到yarn集群 找不到或无法加载主类org.apache.flink.yarn.entrypoint.YarnJobClusterEntrypoint](https://blog.csdn.net/weixin_43039757/article/details/143747042)
